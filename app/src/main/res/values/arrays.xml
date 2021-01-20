@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_stored">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="menu">
+        <item>Mini Exercises</item>
+        <item>Keyboard Exercises</item>
+        <item>Alert Exercises</item>
+        <item>Cafe Exercises</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="text_dialog">Alerta!</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Accept</string>
+    <string name="donut">Donuts are glazed and sprinkled with candy</string>
+    <string name="ice_cream">Ice creamsandwiches have chocolate wafers and vanilla filling</string>
+    <string name="froyo">FroYo is premium self-serve frozen yogurt</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo.</string>
+    <string name="same_day">Same day messenger service</string>
+    <string name="next_day">Next day ground delivery</string>
+    <string name="pick_up">Pick up</string>
+    <string name="chosen">Chosen: </string>
+    <string name="nothing_chosen">onRadioClicked: Nothing chosen</string>
+</resources>
